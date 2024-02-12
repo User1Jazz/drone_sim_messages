@@ -30,6 +30,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/DroneControl.msg"
   "msg/DroneSensors.msg"
   "msg/SessionInfo.msg"
+  "msg/DroneStatus.msg"
   DEPENDENCIES std_msgs geometry_msgs)
 
 ament_package()
