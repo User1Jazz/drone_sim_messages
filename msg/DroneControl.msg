@@ -1,6 +1,5 @@
 # ROS2 Message for Drone Control
 geometry_msgs/Twist twist
-float32 speed
 
 # Description below is the definition of the twist message
 #   Vector3 linear
